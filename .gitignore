@@ -4,3 +4,4 @@ screenshots/
 .DS_store
 tutorials/data/img/
 tutorials/data/img_basic/
+venv
