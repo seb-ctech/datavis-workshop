@@ -1,0 +1,45 @@
+main {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#intro,
+#outro {
+  margin: 20% auto;
+}
+
+#scrolly {
+  position: relative;
+}
+
+figure {
+  z-index: 0;
+  position: sticky;
+  top: 0;
+  left: 0;
+  margin: 0;
+  background-color: aliceblue;
+
+  width: 100%;
+  height: 100vh;
+}
+
+article {
+  position: relative;
+  padding-bottom: 100vh;
+}
+
+.step {
+  /* height: 500px; */
+  width: 300px;
+  margin: 20vh auto;
+  padding: 10px 30px;
+  background-color: white;
+  text-align: left;
+}
+
+figure p {
+  font-size: 20px;
+  margin: 0 auto;
+  padding-top: 5%;
+}
